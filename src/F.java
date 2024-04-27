@@ -27,6 +27,7 @@ public class F extends C {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+<<<<<<< HEAD
 
     public Object pp() {
         return this;
@@ -35,4 +36,6 @@ public class F extends C {
     public long ac() {
         return 333;
     }
+=======
+>>>>>>> blueupbranch
 }
